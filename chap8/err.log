@@ -1,0 +1,5 @@
+예외를 강제로 발생
+java.lang.Exception: 예외를 강제로 발생
+	at a1008.ExceptionEx8.method2(ExceptionEx8.java:21)
+	at a1008.ExceptionEx8.method1(ExceptionEx8.java:15)
+	at a1008.ExceptionEx8.main(ExceptionEx8.java:10)
